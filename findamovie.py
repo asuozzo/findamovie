@@ -188,8 +188,8 @@ def create_movie_tiles(movies):
 
 # generate the webpage
 def create_webpage(movies):
-    outputfile = "findamovie.html"
-    webpage_file = open("findamovie.html", "w")
+    outputfile = "index.html"
+    webpage_file = open(outputfile, "w")
 
     webpage_file.write(html_head)
 
