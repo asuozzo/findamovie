@@ -4,55 +4,55 @@ import json
 
 # Create movie objects
 harold_and_maude = media.Movie("Harold and Maude",
-                                "http://t2.gstatic.com/images?q=tbn:ANd9GcRGDD-RPAD2zrsxe9mhXnOWMVQC6qOPe7nFiDjzhsypiVlKUmhk",# NOQA
+                                "https://t2.gstatic.com/images?q=tbn:ANd9GcRGDD-RPAD2zrsxe9mhXnOWMVQC6qOPe7nFiDjzhsypiVlKUmhk",# NOQA
                                 "https://www.youtube.com/watch?v=u-cOukYeGVM",
                                 "comedy",
                                 "1971")
 
 inside_out = media.Movie("Inside Out",
-                         "http://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE",# NOQA
+                         "https://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE",# NOQA
                          "https://www.youtube.com/watch?v=yRUAzGQ3nSY",
                          "comedy",
                          "2015")
 
 duck_soup = media.Movie("Duck Soup",
-                        "http://t2.gstatic.com/images?q=tbn:ANd9GcSfBxLjdtAdbNZwIfLbp6gpCwWlz8c5PEVYhb85yTlg6dCWOft7", # NOQA
+                        "https://t2.gstatic.com/images?q=tbn:ANd9GcSfBxLjdtAdbNZwIfLbp6gpCwWlz8c5PEVYhb85yTlg6dCWOft7", # NOQA
                         "https://www.youtube.com/watch?v=AF0Pa1uMP4Q",
                         "comedy",
                         "1933")
 
 inception = media.Movie("Inception",
-                        "http://t2.gstatic.com/images?q=tbn:ANd9GcRo9vfJCM6dzPkZHIHBVCtlJnAnew9Ai26kEdrli0-tfmatmciD", # NOQA
+                        "https://t2.gstatic.com/images?q=tbn:ANd9GcRo9vfJCM6dzPkZHIHBVCtlJnAnew9Ai26kEdrli0-tfmatmciD", # NOQA
                         "https://www.youtube.com/watch?v=YkVRTbleoSU",
                         "action",
                         "2010")
 
 bourne_identity = media.Movie("The Bourne Identity",
-                              "http://www.gstatic.com/tv/thumb/movieposters/28900/p28900_p_v8_ai.jpg", # NOQA
+                              "https://www.gstatic.com/tv/thumb/movieposters/28900/p28900_p_v8_ai.jpg", # NOQA
                               "https://www.youtube.com/watch?v=cD-uQreIwEk",
                               "action",
                               "2002")
 
 captain_america = media.Movie("Captain America: Civil War",
-                              "http://t3.gstatic.com/images?q=tbn:ANd9GcTz1xU3qYlGXViIS51HIQh71D339ceW2nlWnb8zzSaJAL0newVj", # NOQA
+                              "https://t3.gstatic.com/images?q=tbn:ANd9GcTz1xU3qYlGXViIS51HIQh71D339ceW2nlWnb8zzSaJAL0newVj", # NOQA
                               "https://www.youtube.com/watch?v=dKrVegVI0Us",
                               "action",
                               "2016")
 
 atonement = media.Movie("Atonement",
-                        "http://www.gstatic.com/tv/thumb/movieposters/167496/p167496_p_v8_af.jpg", # NOQA
+                        "https://www.gstatic.com/tv/thumb/movieposters/167496/p167496_p_v8_af.jpg", # NOQA
                         "https://www.youtube.com/watch?v=Dznc_LJIJ4c",
                         "drama",
                         "2007")
 
 spotlight = media.Movie("Spotlight",
-                        "http://t0.gstatic.com/images?q=tbn:ANd9GcS8FoV_CqN1-EetgwddDzbfaFYsOlAufiupBdzDTGLm6l8ty-F1", # NOQA
+                        "https://t0.gstatic.com/images?q=tbn:ANd9GcS8FoV_CqN1-EetgwddDzbfaFYsOlAufiupBdzDTGLm6l8ty-F1", # NOQA
                         "https://www.youtube.com/watch?v=Zg5zSVxx9JM",
                         "drama",
                         "2015")
 
 almost_famous = media.Movie("Almost Famous",
-                            "http://t0.gstatic.com/images?q=tbn:ANd9GcQBfoQp1r6qJCTme8tT_OKkNsITBsQjPRRVNqwN8PdWZTID3ZXZ", # NOQA
+                            "https://t0.gstatic.com/images?q=tbn:ANd9GcQBfoQp1r6qJCTme8tT_OKkNsITBsQjPRRVNqwN8PdWZTID3ZXZ", # NOQA
                             "https://www.youtube.com/watch?v=SHNETQXKlY4",
                             "drama",
                             "2000")
